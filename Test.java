@@ -18,8 +18,8 @@ public class Test {
         Human per5=new Human();
         per5.setHuman("吴  随",18,"男");
         per5.introduce();
-        Human pre6=new Human();
-        per1.setHuman("徐书展",18,"男");
-        per1.introduce();
+        Human per6=new Human();
+        per6.setHuman("徐书展",18,"男");
+        per6.introduce();
     }
 }
